@@ -1,11 +1,10 @@
-## Welcome to Woonseon's page
+## Welcome to onesun page
 
-###My Name: 
+###My Name
 ##woonseon
-###My Email: 
+
+###My Email
 ##dbdnstjs8072@naver.com
-###My Page: 
+
+###My Page 
 ##https://woonseon.github.io/
-
-
-**Bold** and _Italic_ and `Code` text
