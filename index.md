@@ -1,9 +1,5 @@
 ## Welcome to GitHub Pages
 
-My Name: woonseon
-My Email: dbdnstjs8072@naver.com
-My Page: https://woonseon.github.io/
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -15,11 +11,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+My Name: woonseon
+My Email: dbdnstjs8072@naver.com
+My Page: https://woonseon.github.io/
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
